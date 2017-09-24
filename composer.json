@@ -19,6 +19,6 @@
     }
   ],
   "autoload": {
-    "psr-4": { "YoutubeDl\\": "src/" }
-  } 
+    "psr-4": { "Enfuse\\": "src/" }
+  }
 }
