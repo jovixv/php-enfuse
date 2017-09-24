@@ -3,7 +3,6 @@
   "type": "library",
   "description": "enfuse wrapper for php",
   "keywords": ["enfuse", "enfuse-php"],
-  "version": "1.0.1",
   "require": {
     "php": ">=7.0",
     "symfony/options-resolver": "^3.3",
@@ -21,10 +20,5 @@
   ],
   "autoload": {
     "psr-4": { "YoutubeDl\\": "src/" }
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "1.0-dev"
-    }
   }
 }
