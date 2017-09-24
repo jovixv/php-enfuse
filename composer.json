@@ -14,12 +14,12 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Vitaliy Lyabakh",
+      "name": "Vitaliy Lyabak",
       "email": "igrolan@gmail.com"
     }
   ],
   "autoload": {
-    "psr-4": { "Enfuse\\": "src/" }
+    "psr-4": { "YoutubeDl\\": "src/" }
   },
   "extra": {
     "branch-alias": {
