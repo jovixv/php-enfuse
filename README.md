@@ -9,7 +9,7 @@ PHP WRAPER FOR Enfuse
 
 ### How do I get set up? ###
 
-* Summary of set up
+* composer require jovix2708/enfuse-php
 * Configuration
 * Dependencies
 * Database configuration
