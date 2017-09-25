@@ -5,7 +5,7 @@ PHP WRAPER FOR Enfuse
 
 * Quick summary
 * Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* [jovix2708](https://packagist.org/packages/jovix2708/enfuse-php)
 
 ### How do I get set up? ###
 
