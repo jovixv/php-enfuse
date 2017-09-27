@@ -120,7 +120,7 @@ class Enfuse
              }
 
         }
-print_r($arguments);
+        
         return $arguments;
     }
 
